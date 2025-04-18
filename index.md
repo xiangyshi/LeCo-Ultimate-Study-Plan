@@ -1,6 +1,8 @@
-## Study Plan
 
-- [8-Week Study Plan](content/leo.md) - A detailed day-by-day breakdown of the study plan
+## Study Plans
+
+- [Leo's Plan](content/leo.md)
+- [Coco's Plan](content/coco.md)
 
 ## Resources
 
@@ -8,5 +10,3 @@
 - [Coursera Algorithms](https://www.coursera.org/learn/algorithms-part1)
 - [NeetCode](https://neetcode.io/)
 - [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) 
-
--[ ] this is a checkbox

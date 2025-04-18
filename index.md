@@ -1,6 +1,7 @@
-## Study Plan
+## Study Plans
 
-- [8-Week Study Plan](content/leo.md) - A detailed day-by-day breakdown of the study plan
+- [Leo's Plan](content/leo.md)
+- [Coco's Plan](content/coco.md)
 
 ## Resources
 
@@ -9,4 +10,7 @@
 - [NeetCode](https://neetcode.io/)
 - [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) 
 
--[ ] this is a checkbox
+## Test
+
+- [ ] This is a checkbox
+- [ ] This is another checkbox

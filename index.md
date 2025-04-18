@@ -1,7 +1,4 @@
 
-- [ ] This is a checkbox
-- [ ] This is another checkbox
-
 ## Study Plans
 
 - [Leo's Plan](content/leo.md)

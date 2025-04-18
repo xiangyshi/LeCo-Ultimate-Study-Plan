@@ -1,8 +1,11 @@
+---
+layout: default
+title: LeCo Ultimate Study Plan
+---
 
-## Study Plans
+## Study Plan
 
-- [Leo's Plan](content/leo.md)
-- [Coco's Plan](content/coco.md)
+- [8-Week Study Plan](content/leo.md) - A detailed day-by-day breakdown of the study plan
 
 ## Resources
 

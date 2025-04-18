@@ -2,6 +2,7 @@ title: LeCo Ultimate Study Plan
 description: A comprehensive 8-week study plan for technical interviews
 theme: jekyll-theme-minimal
 markdown: kramdown
+baseurl: "/LeCo-Ultimate-Study-Plan"
 plugins:
   - jekyll-relative-links
 relative_links:

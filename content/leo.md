@@ -5,49 +5,41 @@ title: 8-Week Study Plan
 
 ## Month 1: Intensive Coding Practice & Project Kick‑Off
 
-### Week 1 📚
+### Week 1 – Focus on Algorithms & Big‑O Fundamentals
 
-| Day       | Time            | Activity                                       | Resource/Notes                            | Done |
-|-----------|-----------------|------------------------------------------------|--------------------------------------------|:----:|
-| Monday    | 9:30–11:00 AM   | • ML Course: Watch Intro & Linear Regression videos 🎥 | Andrew Ng ML Course – Week 1    | <input type="checkbox" data-id="week1-monday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.1: What is Bioinformatics? + Ch.2: How People Use It 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week1-monday-bio"> |
-| Tuesday   | 9:30–11:00 AM   | • ML Course: Watch Intro & Linear Regression videos 🎥 | Andrew Ng ML Course – Week 1    | <input type="checkbox" data-id="week1-tuesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.1: What is Bioinformatics? + Ch.2: How People Use It 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week1-tuesday-bio"> |
-|           | 11:00–12:00 PM  | • Lab Meeting 👥                                    |                                            | <input type="checkbox" data-id="week1-tuesday-lab"> |
-|           | 1:00–2:00 PM    | • Meeting with Alex 🤝                              |                                            | <input type="checkbox" data-id="week1-tuesday-alex"> |
-|           | 2:00–4:30 PM    | • Lab Work (Project Setup / Review Notes) 💻        |                                            | <input type="checkbox" data-id="week1-tuesday-work"> |
-| Wednesday | 9:30–11:00 AM   | • ML Course: Watch Intro & Linear Regression videos 🎥 | Andrew Ng ML Course – Week 1    | <input type="checkbox" data-id="week1-wednesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.1: What is Bioinformatics? + Ch.2: How People Use It 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week1-wednesday-bio"> |
-|           | 1:00–2:00 PM    | • Intern Meeting 👥                                 |                                            | <input type="checkbox" data-id="week1-wednesday-intern"> |
-|           | 2:00–4:30 PM    | • Lab Work (BLAST, GenBank Practice) 💻             |                                            | <input type="checkbox" data-id="week1-wednesday-work"> |
-| Thursday  | 9:30–11:00 AM   | • ML Course: Watch Intro & Linear Regression videos 🎥 | Andrew Ng ML Course – Week 1    | <input type="checkbox" data-id="week1-thursday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.1: What is Bioinformatics? + Ch.2: How People Use It 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week1-thursday-bio"> |
-| Friday    | 9:30–11:00 AM   | • ML Course: Watch Intro & Linear Regression videos 🎥 | Andrew Ng ML Course – Week 1    | <input type="checkbox" data-id="week1-friday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.1: What is Bioinformatics? + Ch.2: How People Use It 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week1-friday-bio"> |
+| Day       | Time            | Activity                                                                                             | Resource/Notes                                                                                                    | Done |
+|-----------|-----------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|:----:|
+| Monday    | 9:30–11:00 AM   | • Solve 1–2 medium LeetCode problems (Arrays & Basic DP)<br>• Review Big‑O notation & complexity      | [LeetCode Array Practice](https://leetcode.com/explore/learn/card/array-and-string/)<br>CLRS Ch 2 "Getting Started" | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | **Project Planning:**<br>- Create repo & draft "Project Plan" section in README<br>- Define Milestone 1 | Draw.io for sketches (`/docs/`); commit README in `/README.md`                                                     | <input type="checkbox">  |
+| Tuesday   | 9:30–11:00 AM   | • Solve 2 LeetCode problems (Recursion & Sorting)                                                   | [LeetCode Recursion Tag](https://leetcode.com/tag/recursion/)                                                      | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Document solutions & key insights in Markdown journal<br>• Sketch high‑level architecture          | Update `/notes/solutions.md` and `/docs/architecture.md`                                                           | <input type="checkbox">  |
+| Wednesday | 9:30–11:00 AM   | • Solve 2 graph‑related LeetCode problems                                                           | [LeetCode Graph Tag](https://leetcode.com/tag/graph/)                                                             | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Watch Coursera "Algorithms, Part I" Lectures 1–2<br>• Write unit tests for helper functions        | [Algorithms, Part I (Coursera)](https://www.coursera.org/learn/algorithms-part1)<br>PyTest or Jest                   | <input type="checkbox">  |
+| Thursday  | 9:30–11:00 AM   | • Tackle 2 DP problems (focus on memoization)                                                       | [NeetCode DP Playlist](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2GDbgBnYKMHbmN)                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Read CTCDI Ch 1 (Arrays & Strings)<br>• Refactor Week 1 code for readability                       | *Cracking the Coding Interview*, Ch 1                                                                             | <input type="checkbox">  |
+|           |                 | **Meetings (bi‑weekly):**<br>10–10:30 AM; 1–2 PM; 5:30–6 PM<br>No library—afternoon study at home.     | Also 8–8:30 AM weekly Scrum                                                                                       | <input type="checkbox">  |
+| Friday    | 9:30–11:00 AM   | • Solve 2 mixed LeetCode problems (review Week 1 topics)                                            | [Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions/)                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | **Project Milestone 1:**<br>- Commit initial scaffolding<br>- Close issue "Milestone 1: Setup repo"   |                                                                                                                   | <input type="checkbox">  |
 
 *Weekend:* Rest or optional 30‑min tutorial.
 
 ---
 
-### Week 2 📚
+### Week 2 – Algorithm Drills & Detailed Project Planning
 
-| Day       | Time            | Activity                                       | Resource/Notes                            | Done |
-|-----------|-----------------|------------------------------------------------|--------------------------------------------|:----:|
-| Monday    | 9:30–11:00 AM   | • ML Course: Cost Function & Gradient Descent videos 📊 | Andrew Ng ML Course – Week 2    | <input type="checkbox" data-id="week2-monday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.3: Nucleotide Sequence Databases 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week2-monday-bio"> |
-| Tuesday   | 9:30–11:00 AM   | • ML Course: Cost Function & Gradient Descent videos 📊 | Andrew Ng ML Course – Week 2    | <input type="checkbox" data-id="week2-tuesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.3: Nucleotide Sequence Databases 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week2-tuesday-bio"> |
-|           | 11:00–12:00 PM  | • Lab Meeting 👥                                    |                                            | <input type="checkbox" data-id="week2-tuesday-lab"> |
-|           | 1:00–2:00 PM    | • Meeting with Alex 🤝                              |                                            | <input type="checkbox" data-id="week2-tuesday-alex"> |
-|           | 2:00–4:30 PM    | • Lab Work (Project Setup / Review Notes) 💻        |                                            | <input type="checkbox" data-id="week2-tuesday-work"> |
-| Wednesday | 9:30–11:00 AM   | • ML Course: Cost Function & Gradient Descent videos 📊 | Andrew Ng ML Course – Week 2    | <input type="checkbox" data-id="week2-wednesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.3: Nucleotide Sequence Databases 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week2-wednesday-bio"> |
-|           | 1:00–2:00 PM    | • Intern Meeting 👥                                 |                                            | <input type="checkbox" data-id="week2-wednesday-intern"> |
-|           | 2:00–4:30 PM    | • Lab Work (BLAST, GenBank Practice) 💻             |                                            | <input type="checkbox" data-id="week2-wednesday-work"> |
-| Thursday  | 9:30–11:00 AM   | • ML Course: Cost Function & Gradient Descent videos 📊 | Andrew Ng ML Course – Week 2    | <input type="checkbox" data-id="week2-thursday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.3: Nucleotide Sequence Databases 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week2-thursday-bio"> |
-| Friday    | 9:30–11:00 AM   | • ML Course: Cost Function & Gradient Descent videos 📊 | Andrew Ng ML Course – Week 2    | <input type="checkbox" data-id="week2-friday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.3: Nucleotide Sequence Databases 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week2-friday-bio"> |
+| Day       | Time            | Activity                                                                                             | Resource/Notes                                                                                                    | Done |
+|-----------|-----------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|:----:|
+| Monday    | 9:30–11:00 AM   | • Solve 2 LeetCode problems (Strings & Recursion)                                                   | [LeetCode String Tag](https://leetcode.com/tag/string/)                                                           | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | **Architecture Design:**<br>- Define modules for `{{PERSONAL_PROJECT_NAME}}`<br>- Sketch diagrams    | Save `/docs/architecture.md`                                                                                     | <input type="checkbox">  |
+| Tuesday   | 9:30–11:00 AM   | • Solve 2 "hard" problems (DP/backtracking)                                                          |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Watch "Algorithms, Part II" Lectures<br>• Draft detailed project plan (Objectives, Milestones 1–3) | [Algorithms, Part II (Coursera)](https://www.coursera.org/learn/algorithms-part2)                                  | <input type="checkbox">  |
+| Wednesday | 9:30–11:00 AM   | • Solve 2 graph/tree problems                                                                        |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Sketch ER diagram & write initial DB schema                                                        | Commit `/models/`                                                                                                 | <input type="checkbox">  |
+| Thursday  | 9:30–11:00 AM   | • Solve 1–2 decomposition challenges                                                                 |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Read CTCDI Ch 2 (Recursion deep dive)<br>• Set up CI (GitHub Actions)                              | *Cracking the Coding Interview*, Ch 2<br>`.github/workflows/ci.yml`                                                | <input type="checkbox">  |
+|           |                 | **Meetings (bi‑weekly):**<br>10–10:30 AM; 1–2 PM; 5:30–6 PM                                            | No library                                                                                                        | <input type="checkbox">  |
+| Friday    | 9:30–11:00 AM   | • Mixed LeetCode practice (Array, String, Graph)                                                     |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | **Milestone 2:**<br>- Commit caching layer plan<br>- Close issue "Milestone 2: Caching"              |                                                                                                                   | <input type="checkbox">  |
 
 *Weekend:* Rest or optional review.
 
@@ -55,218 +47,108 @@ title: 8-Week Study Plan
 
 ## Month 2: System Design & DevOps Fundamentals
 
-### Week 3 📚
+### Week 3 – Core Patterns & Basic System Design
 
-| Day       | Time            | Activity                                       | Resource/Notes                            | Done |
-|-----------|-----------------|------------------------------------------------|--------------------------------------------|:----:|
-| Monday    | 9:30–11:00 AM   | • ML Course: Logistic Regression videos 📈          | Andrew Ng ML Course – Week 3    | <input type="checkbox" data-id="week3-monday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.4: Protein & Specialized Sequence Databases 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week3-monday-bio"> |
-| Tuesday   | 9:30–11:00 AM   | • ML Course: Logistic Regression videos 📈          | Andrew Ng ML Course – Week 3    | <input type="checkbox" data-id="week3-tuesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.4: Protein & Specialized Sequence Databases 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week3-tuesday-bio"> |
-|           | 11:00–12:00 PM  | • Lab Meeting 👥                                    |                                            | <input type="checkbox" data-id="week3-tuesday-lab"> |
-|           | 1:00–2:00 PM    | • Meeting with Alex 🤝                              |                                            | <input type="checkbox" data-id="week3-tuesday-alex"> |
-|           | 2:00–4:30 PM    | • Lab Work (Project Setup / Review Notes) 💻        |                                            | <input type="checkbox" data-id="week3-tuesday-work"> |
-| Wednesday | 9:30–11:00 AM   | • ML Course: Logistic Regression videos 📈          | Andrew Ng ML Course – Week 3    | <input type="checkbox" data-id="week3-wednesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.4: Protein & Specialized Sequence Databases 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week3-wednesday-bio"> |
-|           | 1:00–2:00 PM    | • Intern Meeting 👥                                 |                                            | <input type="checkbox" data-id="week3-wednesday-intern"> |
-|           | 2:00–4:30 PM    | • Lab Work (BLAST, GenBank Practice) 💻             |                                            | <input type="checkbox" data-id="week3-wednesday-work"> |
-| Thursday  | 9:30–11:00 AM   | • ML Course: Logistic Regression videos 📈          | Andrew Ng ML Course – Week 3    | <input type="checkbox" data-id="week3-thursday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.4: Protein & Specialized Sequence Databases 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week3-thursday-bio"> |
-| Friday    | 9:30–11:00 AM   | • ML Course: Logistic Regression videos 📈          | Andrew Ng ML Course – Week 3    | <input type="checkbox" data-id="week3-friday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.4: Protein & Specialized Sequence Databases 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week3-friday-bio"> |
+| Day       | Time            | Activity                                                                                             | Resource/Notes                                                                                                    | Done |
+|-----------|-----------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|:----:|
+| Monday    | 9:30–11:00 AM   | • Read HFD Patterns: Factory & Singleton                                                             | *Head First Design Patterns* Ch 1–2                                                                               | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Implement Factory & Singleton examples<br>• Commit under `/patterns/`                               |                                                                                                                   | <input type="checkbox">  |
+| Tuesday   | 9:30–11:00 AM   | • Read HFD Patterns: Observer & Decorator                                                            | Ch 3–4                                                                                                            | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Apply Observer pattern in project<br>• Commit under `/patterns/observer/`                           |                                                                                                                   | <input type="checkbox">  |
+| Wednesday | 9:30–11:00 AM   | • Deep dive: CAP theorem & ACID vs BASE                                                              | [Kleppmann's blog](https://martin.kleppmann.com/)                                                                 | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Sketch replication strategies & save `/docs/replication.png`                                        |                                                                                                                   | <input type="checkbox">  |
+| Thursday  | 9:30–11:00 AM   | • Read *Designing Data‑Intensive Apps* Ch 1                                                          |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Add Redis cache to one endpoint<br>• Write integration tests                                        |                                                                                                                   | <input type="checkbox">  |
+|           |                 | **Meetings (bi‑weekly):**<br>10–10:30 AM; 1–2 PM; 5:30–6 PM                                            | No library                                                                                                        | <input type="checkbox">  |
+| Friday    | 9:30–11:00 AM   | • Quiz: system design patterns & trade‑offs                                                          |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | **Milestone 3:**<br>- Commit caching feature<br>- Close issue "Milestone 3: Caching"                 |                                                                                                                   | <input type="checkbox">  |
 
 ---
 
-### Week 4 📚
+### Week 4 – DevOps: Containers, CI/CD, Monitoring
 
-| Day       | Time            | Activity                                       | Resource/Notes                            | Done |
-|-----------|-----------------|------------------------------------------------|--------------------------------------------|:----:|
-| Monday    | 9:30–11:00 AM   | • ML Course: Regularization + ML System Design 🛠️   | Andrew Ng ML Course – Week 4    | <input type="checkbox" data-id="week4-monday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.5: Working with a DNA Sequence 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week4-monday-bio"> |
-| Tuesday   | 9:30–11:00 AM   | • ML Course: Regularization + ML System Design 🛠️   | Andrew Ng ML Course – Week 4    | <input type="checkbox" data-id="week4-tuesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.5: Working with a DNA Sequence 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week4-tuesday-bio"> |
-|           | 11:00–12:00 PM  | • Lab Meeting 👥                                    |                                            | <input type="checkbox" data-id="week4-tuesday-lab"> |
-|           | 1:00–2:00 PM    | • Meeting with Alex 🤝                              |                                            | <input type="checkbox" data-id="week4-tuesday-alex"> |
-|           | 2:00–4:30 PM    | • Lab Work (Project Setup / Review Notes) 💻        |                                            | <input type="checkbox" data-id="week4-tuesday-work"> |
-| Wednesday | 9:30–11:00 AM   | • ML Course: Regularization + ML System Design 🛠️   | Andrew Ng ML Course – Week 4    | <input type="checkbox" data-id="week4-wednesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.5: Working with a DNA Sequence 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week4-wednesday-bio"> |
-|           | 1:00–2:00 PM    | • Intern Meeting 👥                                 |                                            | <input type="checkbox" data-id="week4-wednesday-intern"> |
-|           | 2:00–4:30 PM    | • Lab Work (BLAST, GenBank Practice) 💻             |                                            | <input type="checkbox" data-id="week4-wednesday-work"> |
-| Thursday  | 9:30–11:00 AM   | • ML Course: Regularization + ML System Design 🛠️   | Andrew Ng ML Course – Week 4    | <input type="checkbox" data-id="week4-thursday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.5: Working with a DNA Sequence 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week4-thursday-bio"> |
-| Friday    | 9:30–11:00 AM   | • ML Course: Regularization + ML System Design 🛠️   | Andrew Ng ML Course – Week 4    | <input type="checkbox" data-id="week4-friday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.5: Working with a DNA Sequence 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week4-friday-bio"> |
-
----
-
-### Week 5 📚
-
-| Day       | Time            | Activity                                       | Resource/Notes                            | Done |
-|-----------|-----------------|------------------------------------------------|--------------------------------------------|:----:|
-| Monday    | 9:30–11:00 AM   | • ML Course: Neural Networks 🧠                     | Andrew Ng ML Course – Week 5    | <input type="checkbox" data-id="week5-monday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.6: Working with a Protein Sequence 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week5-monday-bio"> |
-| Tuesday   | 9:30–11:00 AM   | • ML Course: Neural Networks 🧠                     | Andrew Ng ML Course – Week 5    | <input type="checkbox" data-id="week5-tuesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.6: Working with a Protein Sequence 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week5-tuesday-bio"> |
-|           | 11:00–12:00 PM  | • Lab Meeting 👥                                    |                                            | <input type="checkbox" data-id="week5-tuesday-lab"> |
-|           | 1:00–2:00 PM    | • Meeting with Alex 🤝                              |                                            | <input type="checkbox" data-id="week5-tuesday-alex"> |
-|           | 2:00–4:30 PM    | • Lab Work (Project Setup / Review Notes) 💻        |                                            | <input type="checkbox" data-id="week5-tuesday-work"> |
-| Wednesday | 9:30–11:00 AM   | • ML Course: Neural Networks 🧠                     | Andrew Ng ML Course – Week 5    | <input type="checkbox" data-id="week5-wednesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.6: Working with a Protein Sequence 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week5-wednesday-bio"> |
-|           | 1:00–2:00 PM    | • Intern Meeting 👥                                 |                                            | <input type="checkbox" data-id="week5-wednesday-intern"> |
-|           | 2:00–4:30 PM    | • Lab Work (BLAST, GenBank Practice) 💻             |                                            | <input type="checkbox" data-id="week5-wednesday-work"> |
-| Thursday  | 9:30–11:00 AM   | • ML Course: Neural Networks 🧠                     | Andrew Ng ML Course – Week 5    | <input type="checkbox" data-id="week5-thursday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.6: Working with a Protein Sequence 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week5-thursday-bio"> |
-| Friday    | 9:30–11:00 AM   | • ML Course: Neural Networks 🧠                     | Andrew Ng ML Course – Week 5    | <input type="checkbox" data-id="week5-friday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.6: Working with a Protein Sequence 🧬 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week5-friday-bio"> |
-
----
-
-### Week 6 📚
-
-| Day       | Time            | Activity                                       | Resource/Notes                            | Done |
-|-----------|-----------------|------------------------------------------------|--------------------------------------------|:----:|
-| Monday    | 9:30–11:00 AM   | • ML Course: SVMs + Decision Trees 🌳               | Andrew Ng ML Course – Week 6    | <input type="checkbox" data-id="week6-monday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.7: BLAST & Similarity Searches 🔍 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week6-monday-bio"> |
-| Tuesday   | 9:30–11:00 AM   | • ML Course: SVMs + Decision Trees 🌳               | Andrew Ng ML Course – Week 6    | <input type="checkbox" data-id="week6-tuesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.7: BLAST & Similarity Searches 🔍 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week6-tuesday-bio"> |
-|           | 11:00–12:00 PM  | • Lab Meeting 👥                                    |                                            | <input type="checkbox" data-id="week6-tuesday-lab"> |
-|           | 1:00–2:00 PM    | • Meeting with Alex 🤝                              |                                            | <input type="checkbox" data-id="week6-tuesday-alex"> |
-|           | 2:00–4:30 PM    | • Lab Work (Project Setup / Review Notes) 💻        |                                            | <input type="checkbox" data-id="week6-tuesday-work"> |
-| Wednesday | 9:30–11:00 AM   | • ML Course: SVMs + Decision Trees 🌳               | Andrew Ng ML Course – Week 6    | <input type="checkbox" data-id="week6-wednesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.7: BLAST & Similarity Searches 🔍 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week6-wednesday-bio"> |
-|           | 1:00–2:00 PM    | • Intern Meeting 👥                                 |                                            | <input type="checkbox" data-id="week6-wednesday-intern"> |
-|           | 2:00–4:30 PM    | • Lab Work (BLAST, GenBank Practice) 💻             |                                            | <input type="checkbox" data-id="week6-wednesday-work"> |
-| Thursday  | 9:30–11:00 AM   | • ML Course: SVMs + Decision Trees 🌳               | Andrew Ng ML Course – Week 6    | <input type="checkbox" data-id="week6-thursday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.7: BLAST & Similarity Searches 🔍 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week6-thursday-bio"> |
-| Friday    | 9:30–11:00 AM   | • ML Course: SVMs + Decision Trees 🌳               | Andrew Ng ML Course – Week 6    | <input type="checkbox" data-id="week6-friday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.7: BLAST & Similarity Searches 🔍 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week6-friday-bio"> |
+| Day       | Time            | Activity                                                                                             | Resource/Notes                                                                                                    | Done |
+|-----------|-----------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|:----:|
+| Monday    | 9:30–11:00 AM   | • Docker basics: build/run/tag images                                                               | [Docker "Get Started"](https://docs.docker.com/get-started/)                                                       | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Containerize API layer<br>• Write `Dockerfile`                                                     |                                                                                                                   | <input type="checkbox">  |
+| Tuesday   | 9:30–11:00 AM   | • Kubernetes intro: pods & deployments                                                              | [Kubernetes in Action Ch 1](https://www.manning.com/books/kubernetes-in-action)                                    | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Deploy to Minikube<br>• Add health checks                                                         |                                                                                                                   | <input type="checkbox">  |
+| Wednesday | 9:30–11:00 AM   | • Prometheus + Grafana basics                                                                        |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Export metrics & build dashboard                                                                   |                                                                                                                   | <input type="checkbox">  |
+| Thursday  | 9:30–11:00 AM   | • Read *The Phoenix Project* Ch 1–3                                                                  |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Automate rolling updates in k8s                                                                     |                                                                                                                   | <input type="checkbox">  |
+|           |                 | **Meetings (bi‑weekly):**<br>10–10:30 AM; 1–2 PM; 5:30–6 PM                                            | No library                                                                                                        | <input type="checkbox">  |
+| Friday    | 9:30–11:00 AM   | • Quiz: CI/CD flow & Kubernetes concepts                                                             |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | **Milestone 4:**<br>- Commit CI/CD pipeline<br>- Close issue "Milestone 4: DevOps"                   |                                                                                                                   | <input type="checkbox">  |
 
 ---
 
 ## Month 3: Advanced Topics & Interview Readiness
 
-### Week 7 📚
+### Week 5 – Microservices & APIs
 
-| Day       | Time            | Activity                                       | Resource/Notes                            | Done |
-|-----------|-----------------|------------------------------------------------|--------------------------------------------|:----:|
-| Monday    | 9:30–11:00 AM   | • ML Course: K-Means + PCA 📊                       | Andrew Ng ML Course – Week 7    | <input type="checkbox" data-id="week7-monday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.8: Comparing Two Sequences 🔄  | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week7-monday-bio"> |
-| Tuesday   | 9:30–11:00 AM   | • ML Course: K-Means + PCA 📊                       | Andrew Ng ML Course – Week 7    | <input type="checkbox" data-id="week7-tuesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.8: Comparing Two Sequences 🔄  | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week7-tuesday-bio"> |
-|           | 11:00–12:00 PM  | • Lab Meeting 👥                                    |                                            | <input type="checkbox" data-id="week7-tuesday-lab"> |
-|           | 1:00–2:00 PM    | • Meeting with Alex 🤝                              |                                            | <input type="checkbox" data-id="week7-tuesday-alex"> |
-|           | 2:00–4:30 PM    | • Lab Work (Project Setup / Review Notes) 💻        |                                            | <input type="checkbox" data-id="week7-tuesday-work"> |
-| Wednesday | 9:30–11:00 AM   | • ML Course: K-Means + PCA 📊                       | Andrew Ng ML Course – Week 7    | <input type="checkbox" data-id="week7-wednesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.8: Comparing Two Sequences 🔄  | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week7-wednesday-bio"> |
-|           | 1:00–2:00 PM    | • Intern Meeting 👥                                 |                                            | <input type="checkbox" data-id="week7-wednesday-intern"> |
-|           | 2:00–4:30 PM    | • Lab Work (BLAST, GenBank Practice) 💻             |                                            | <input type="checkbox" data-id="week7-wednesday-work"> |
-| Thursday  | 9:30–11:00 AM   | • ML Course: K-Means + PCA 📊                       | Andrew Ng ML Course – Week 7    | <input type="checkbox" data-id="week7-thursday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.8: Comparing Two Sequences 🔄  | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week7-thursday-bio"> |
-| Friday    | 9:30–11:00 AM   | • ML Course: K-Means + PCA 📊                       | Andrew Ng ML Course – Week 7    | <input type="checkbox" data-id="week7-friday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.8: Comparing Two Sequences 🔄  | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week7-friday-bio"> |
+| Day       | Time            | Activity                                                                                             | Resource/Notes                                                                                                    | Done |
+|-----------|-----------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|:----:|
+| Monday    | 9:30–11:00 AM   | • Read *Building Microservices* Ch 1–2                                                               |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Implement User service (CRUD API)                                                                  |                                                                                                                   | <input type="checkbox">  |
+| Tuesday   | 9:30–11:00 AM   | • Implement Order service<br>• Write contract tests                                                   | Pact or simple integration tests                                                                                  | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Add API gateway (NGINX/Kong)                                                                        |                                                                                                                   | <input type="checkbox">  |
+| Wednesday | 9:30–11:00 AM   | • Read resilience patterns (circuit breakers)                                                         |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Implement simple circuit breaker                                                                    |                                                                                                                   | <input type="checkbox">  |
+| Thursday  | 9:30–11:00 AM   | • Chaos testing: simulate failure                                                                     |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | **Meetings (bi‑weekly):**<br>10–10:30 AM; 1–2 PM; 5:30–6 PM                                            | No library                                                                                                        | <input type="checkbox">  |
+| Friday    | 9:30–11:00 AM   | • Mock interview: API design                                                                          |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | **Milestone 5:**<br>- Commit microservices integration<br>- Close issue "Milestone 5: Services"      |                                                                                                                   | <input type="checkbox">  |
 
 ---
 
-### Week 8 📚
+### Week 6 – Security & Design Patterns Deep Dive
 
-| Day       | Time            | Activity                                       | Resource/Notes                            | Done |
-|-----------|-----------------|------------------------------------------------|--------------------------------------------|:----:|
-| Monday    | 9:30–11:00 AM   | • ML Course: Anomaly Detection + Recommender Systems 🎯 | Andrew Ng ML Course – Week 8    | <input type="checkbox" data-id="week8-monday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.9: Multiple Sequence Alignment 🔄 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week8-monday-bio"> |
-| Tuesday   | 9:30–11:00 AM   | • ML Course: Anomaly Detection + Recommender Systems 🎯 | Andrew Ng ML Course – Week 8    | <input type="checkbox" data-id="week8-tuesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.9: Multiple Sequence Alignment 🔄 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week8-tuesday-bio"> |
-|           | 11:00–12:00 PM  | • Lab Meeting 👥                                    |                                            | <input type="checkbox" data-id="week8-tuesday-lab"> |
-|           | 1:00–2:00 PM    | • Meeting with Alex 🤝                              |                                            | <input type="checkbox" data-id="week8-tuesday-alex"> |
-|           | 2:00–4:30 PM    | • Lab Work (Project Setup / Review Notes) 💻        |                                            | <input type="checkbox" data-id="week8-tuesday-work"> |
-| Wednesday | 9:30–11:00 AM   | • ML Course: Anomaly Detection + Recommender Systems 🎯 | Andrew Ng ML Course – Week 8    | <input type="checkbox" data-id="week8-wednesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.9: Multiple Sequence Alignment 🔄 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week8-wednesday-bio"> |
-|           | 1:00–2:00 PM    | • Intern Meeting 👥                                 |                                            | <input type="checkbox" data-id="week8-wednesday-intern"> |
-|           | 2:00–4:30 PM    | • Lab Work (BLAST, GenBank Practice) 💻             |                                            | <input type="checkbox" data-id="week8-wednesday-work"> |
-| Thursday  | 9:30–11:00 AM   | • ML Course: Anomaly Detection + Recommender Systems 🎯 | Andrew Ng ML Course – Week 8    | <input type="checkbox" data-id="week8-thursday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.9: Multiple Sequence Alignment 🔄 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week8-thursday-bio"> |
-| Friday    | 9:30–11:00 AM   | • ML Course: Anomaly Detection + Recommender Systems 🎯 | Andrew Ng ML Course – Week 8    | <input type="checkbox" data-id="week8-friday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.9: Multiple Sequence Alignment 🔄 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week8-friday-bio"> |
+| Day       | Time            | Activity                                                                                             | Resource/Notes                                                                                                    | Done |
+|-----------|-----------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|:----:|
+| Monday    | 9:30–11:00 AM   | • Read OWASP Top 10 overview                                                                           |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Harden APIs (Injection, XSS)<br>• Add input validation                                              |                                                                                                                   | <input type="checkbox">  |
+| Tuesday   | 9:30–11:00 AM   | • Implement OAuth2 / JWT auth                                                                         |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | **Milestone 6:**<br>- Commit security layer<br>- Close issue "Milestone 6: Security"                |                                                                                                                   | <input type="checkbox">  |
+| Wednesday | 9:30–11:00 AM   | • Read *Security Patterns* Ch on secure communications                                                |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Apply Strategy pattern in project                                                                   |                                                                                                                   | <input type="checkbox">  |
+| Thursday  | 9:30–11:00 AM   | • Threat modeling for project                                                                          |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | **Meetings (bi‑weekly):**<br>10–10:30 AM; 1–2 PM; 5:30–6 PM                                            | No library                                                                                                        | <input type="checkbox">  |
+| Friday    | 9:30–11:00 AM   | • Security quiz + pen test basics                                                                     |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Refine security documentation                                                                       |                                                                                                                   | <input type="checkbox">  |
 
 ---
 
 ## Month 4: Capstone Finalization & Interview Polish
 
-### Week 9 📚
+### Week 7 – Performance & Scalability
 
-| Day       | Time            | Activity                                       | Resource/Notes                            | Done |
-|-----------|-----------------|------------------------------------------------|--------------------------------------------|:----:|
-| Monday    | 9:30–11:00 AM   | • ML Course: Large Scale ML (MapReduce) ⚡          | Andrew Ng ML Course – Week 9    | <input type="checkbox" data-id="week9-monday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.10: Editing & Publishing Alignments 📝 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week9-monday-bio"> |
-| Tuesday   | 9:30–11:00 AM   | • ML Course: Large Scale ML (MapReduce) ⚡          | Andrew Ng ML Course – Week 9    | <input type="checkbox" data-id="week9-tuesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.10: Editing & Publishing Alignments 📝 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week9-tuesday-bio"> |
-|           | 11:00–12:00 PM  | • Lab Meeting 👥                                    |                                            | <input type="checkbox" data-id="week9-tuesday-lab"> |
-|           | 1:00–2:00 PM    | • Meeting with Alex 🤝                              |                                            | <input type="checkbox" data-id="week9-tuesday-alex"> |
-|           | 2:00–4:30 PM    | • Lab Work (Project Setup / Review Notes) 💻        |                                            | <input type="checkbox" data-id="week9-tuesday-work"> |
-| Wednesday | 9:30–11:00 AM   | • ML Course: Large Scale ML (MapReduce) ⚡          | Andrew Ng ML Course – Week 9    | <input type="checkbox" data-id="week9-wednesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.10: Editing & Publishing Alignments 📝 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week9-wednesday-bio"> |
-|           | 1:00–2:00 PM    | • Intern Meeting 👥                                 |                                            | <input type="checkbox" data-id="week9-wednesday-intern"> |
-|           | 2:00–4:30 PM    | • Lab Work (BLAST, GenBank Practice) 💻             |                                            | <input type="checkbox" data-id="week9-wednesday-work"> |
-| Thursday  | 9:30–11:00 AM   | • ML Course: Large Scale ML (MapReduce) ⚡          | Andrew Ng ML Course – Week 9    | <input type="checkbox" data-id="week9-thursday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.10: Editing & Publishing Alignments 📝 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week9-thursday-bio"> |
-| Friday    | 9:30–11:00 AM   | • ML Course: Large Scale ML (MapReduce) ⚡          | Andrew Ng ML Course – Week 9    | <input type="checkbox" data-id="week9-friday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.10: Editing & Publishing Alignments 📝 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week9-friday-bio"> |
+| Day       | Time            | Activity                                                                                             | Resource/Notes                                                                                                    | Done |
+|-----------|-----------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|:----:|
+| Monday    | 9:30–11:00 AM   | • Read *Web Performance in Action* Ch 1–2                                                            |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Benchmark API endpoints (Locust/JMeter)<br>• Optimize DB queries                                   |                                                                                                                   | <input type="checkbox">  |
+| Tuesday   | 9:30–11:00 AM   | • Implement caching strategies (Redis)<br>• Measure improvements                                      |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | **Milestone 7:**<br>- Commit performance improvements<br>- Close issue "Milestone 7: Performance"    |                                                                                                                   | <input type="checkbox">  |
+| Wednesday | 9:30–11:00 AM   | • Sketch sharding strategy & document                                                                |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Implement simple partitioning                                                                       |                                                                                                                   | <input type="checkbox">  |
+| Thursday  | 9:30–11:00 AM   | • Profile code for hotspots                                                                           |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | **Meetings (bi‑weekly):**<br>10–10:30 AM; 1–2 PM; 5:30–6 PM                                            | No library                                                                                                        | <input type="checkbox">  |
+| Friday    | 9:30–11:00 AM   | • Mock system design interview                                                                        |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Reflect & document lessons learned                                                                  |                                                                                                                   | <input type="checkbox">  |
 
-### Week 10 📚
+---
 
-| Day       | Time            | Activity                                       | Resource/Notes                            | Done |
-|-----------|-----------------|------------------------------------------------|--------------------------------------------|:----:|
-| Monday    | 9:30–11:00 AM   | • ML Course: Review + Final Assignment 📝           | Andrew Ng ML Course – Week 10   | <input type="checkbox" data-id="week10-monday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.11: Protein 3D Structures 🧬   | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week10-monday-bio"> |
-| Tuesday   | 9:30–11:00 AM   | • ML Course: Review + Final Assignment 📝           | Andrew Ng ML Course – Week 10   | <input type="checkbox" data-id="week10-tuesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.11: Protein 3D Structures 🧬   | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week10-tuesday-bio"> |
-|           | 11:00–12:00 PM  | • Lab Meeting 👥                                    |                                            | <input type="checkbox" data-id="week10-tuesday-lab"> |
-|           | 1:00–2:00 PM    | • Meeting with Alex 🤝                              |                                            | <input type="checkbox" data-id="week10-tuesday-alex"> |
-|           | 2:00–4:30 PM    | • Lab Work (Project Setup / Review Notes) 💻        |                                            | <input type="checkbox" data-id="week10-tuesday-work"> |
-| Wednesday | 9:30–11:00 AM   | • ML Course: Review + Final Assignment 📝           | Andrew Ng ML Course – Week 10   | <input type="checkbox" data-id="week10-wednesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.11: Protein 3D Structures 🧬   | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week10-wednesday-bio"> |
-|           | 1:00–2:00 PM    | • Intern Meeting 👥                                 |                                            | <input type="checkbox" data-id="week10-wednesday-intern"> |
-|           | 2:00–4:30 PM    | • Lab Work (BLAST, GenBank Practice) 💻             |                                            | <input type="checkbox" data-id="week10-wednesday-work"> |
-| Thursday  | 9:30–11:00 AM   | • ML Course: Review + Final Assignment 📝           | Andrew Ng ML Course – Week 10   | <input type="checkbox" data-id="week10-thursday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.11: Protein 3D Structures 🧬   | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week10-thursday-bio"> |
-| Friday    | 9:30–11:00 AM   | • ML Course: Review + Final Assignment 📝           | Andrew Ng ML Course – Week 10   | <input type="checkbox" data-id="week10-friday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.11: Protein 3D Structures 🧬   | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week10-friday-bio"> |
+### Week 8 – Final Mock Interviews & Portfolio Polish
 
-### Week 11 📚
-
-| Day       | Time            | Activity                                       | Resource/Notes                            | Done |
-|-----------|-----------------|------------------------------------------------|--------------------------------------------|:----:|
-| Monday    | 9:30–11:00 AM   | • ML Course: Mini ML Project 🚀                     | Andrew Ng ML Course – Week 11   | <input type="checkbox" data-id="week11-monday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.12: Working with RNA 🧬        | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week11-monday-bio"> |
-| Tuesday   | 9:30–11:00 AM   | • ML Course: Mini ML Project 🚀                     | Andrew Ng ML Course – Week 11   | <input type="checkbox" data-id="week11-tuesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.12: Working with RNA 🧬        | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week11-tuesday-bio"> |
-|           | 11:00–12:00 PM  | • Lab Meeting 👥                                    |                                            | <input type="checkbox" data-id="week11-tuesday-lab"> |
-|           | 1:00–2:00 PM    | • Meeting with Alex 🤝                              |                                            | <input type="checkbox" data-id="week11-tuesday-alex"> |
-|           | 2:00–4:30 PM    | • Lab Work (Project Setup / Review Notes) 💻        |                                            | <input type="checkbox" data-id="week11-tuesday-work"> |
-| Wednesday | 9:30–11:00 AM   | • ML Course: Mini ML Project 🚀                     | Andrew Ng ML Course – Week 11   | <input type="checkbox" data-id="week11-wednesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.12: Working with RNA 🧬        | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week11-wednesday-bio"> |
-|           | 1:00–2:00 PM    | • Intern Meeting 👥                                 |                                            | <input type="checkbox" data-id="week11-wednesday-intern"> |
-|           | 2:00–4:30 PM    | • Lab Work (BLAST, GenBank Practice) 💻             |                                            | <input type="checkbox" data-id="week11-wednesday-work"> |
-| Thursday  | 9:30–11:00 AM   | • ML Course: Mini ML Project 🚀                     | Andrew Ng ML Course – Week 11   | <input type="checkbox" data-id="week11-thursday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.12: Working with RNA 🧬        | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week11-thursday-bio"> |
-| Friday    | 9:30–11:00 AM   | • ML Course: Mini ML Project 🚀                     | Andrew Ng ML Course – Week 11   | <input type="checkbox" data-id="week11-friday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.12: Working with RNA 🧬        | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week11-friday-bio"> |
-
-### Week 12 📚
-
-| Day       | Time            | Activity                                       | Resource/Notes                            | Done |
-|-----------|-----------------|------------------------------------------------|--------------------------------------------|:----:|
-| Monday    | 9:30–11:00 AM   | • ML Course: GitHub Documentation & Wrap-Up 📚      | Andrew Ng ML Course – Week 12   | <input type="checkbox" data-id="week12-monday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.13–15: Phylogenetic Trees, Servers & Resources 🌳 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week12-monday-bio"> |
-| Tuesday   | 9:30–11:00 AM   | • ML Course: GitHub Documentation & Wrap-Up 📚      | Andrew Ng ML Course – Week 12   | <input type="checkbox" data-id="week12-tuesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.13–15: Phylogenetic Trees, Servers & Resources 🌳 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week12-tuesday-bio"> |
-|           | 11:00–12:00 PM  | • Lab Meeting 👥                                    |                                            | <input type="checkbox" data-id="week12-tuesday-lab"> |
-|           | 1:00–2:00 PM    | • Meeting with Alex 🤝                              |                                            | <input type="checkbox" data-id="week12-tuesday-alex"> |
-|           | 2:00–4:30 PM    | • Lab Work (Project Setup / Review Notes) 💻        |                                            | <input type="checkbox" data-id="week12-tuesday-work"> |
-| Wednesday | 9:30–11:00 AM   | • ML Course: GitHub Documentation & Wrap-Up 📚      | Andrew Ng ML Course – Week 12   | <input type="checkbox" data-id="week12-wednesday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.13–15: Phylogenetic Trees, Servers & Resources 🌳 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week12-wednesday-bio"> |
-|           | 1:00–2:00 PM    | • Intern Meeting 👥                                 |                                            | <input type="checkbox" data-id="week12-wednesday-intern"> |
-|           | 2:00–4:30 PM    | • Lab Work (BLAST, GenBank Practice) 💻             |                                            | <input type="checkbox" data-id="week12-wednesday-work"> |
-| Thursday  | 9:30–11:00 AM   | • ML Course: GitHub Documentation & Wrap-Up 📚      | Andrew Ng ML Course – Week 12   | <input type="checkbox" data-id="week12-thursday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.13–15: Phylogenetic Trees, Servers & Resources 🌳 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week12-thursday-bio"> |
-| Friday    | 9:30–11:00 AM   | • ML Course: GitHub Documentation & Wrap-Up 📚      | Andrew Ng ML Course – Week 12   | <input type="checkbox" data-id="week12-friday-ml"> |
-|           | 1:00–2:30 PM    | • Bioinformatics: Ch.13–15: Phylogenetic Trees, Servers & Resources 🌳 | *Bioinformatics For Dummies*             | <input type="checkbox" data-id="week12-friday-bio"> |
+| Day       | Time            | Activity                                                                                             | Resource/Notes                                                                                                    | Done |
+|-----------|-----------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|:----:|
+| Monday    | 9:30–11:00 AM   | • Timed LeetCode "Top 100" problems (med/hard)                                                        |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Mock combined interview (coding+design+behavioral)                                                  | [Pramp](https://pramp.com)                                                                                        | <input type="checkbox">  |
+| Tuesday   | 9:30–11:00 AM   | • Behavioral prep (STAR method)                                                                       |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Resume & LinkedIn final edits                                                                       |                                                                                                                   | <input type="checkbox">  |
+| Wednesday | 9:30–11:00 AM   | • Portfolio site polish & demo video                                                                  |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Final mock interview of the week                                                                     |                                                                                                                   | <input type="checkbox">  |
+| Thursday  | 9:30–11:00 AM   | • Research & apply to 5 target roles                                                                   |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | **Meetings (bi‑weekly):**<br>10–10:30 AM; 1–2 PM; 5:30–6 PM                                            | No library                                                                                                        | <input type="checkbox">  |
+| Friday    | 9:30–11:00 AM   | • Reflect on 8‑week journey & plan next steps                                                         |                                                                                                                   | <input type="checkbox">  |
+|           | 1:00–4:30 PM    | • Celebrate progress & rest                                                                            |                                                                                                                   | <input type="checkbox">  |
